@@ -1,6 +1,3 @@
 # Readme Markdown Test
 ## 2022/6/15测试环节  
-创建git仓库并创建readme.md进行测试。  
-修改readme内容进行git push的测试。
-
-远程分支测试。
+本仓库不用于代码管理，仅用于储存代码和文档。
