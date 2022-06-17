@@ -1,3 +1,9 @@
-git中的pull request是什么含义？以及一些使用git的流程：https://www.zhihu.com/question/21682976
+如何理解堆栈？
+https://blog.csdn.net/qq_42034205/article/details/80376177
 
-关于虚拟机主机网络配置：https://zhuanlan.zhihu.com/p/130984945
+关于程序计数器pc和堆栈指针sp
+https://www.codenong.com/51928246/
+
+进程切换的过程
+https://blog.csdn.net/qq_43176812/article/details/117414208
+
