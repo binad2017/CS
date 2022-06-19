@@ -7,3 +7,13 @@ https://www.codenong.com/51928246/
 进程切换的过程
 https://blog.csdn.net/qq_43176812/article/details/117414208
 
+C语言内存模型详解
+https://blog.csdn.net/second60/article/details/79946310
+
+子进程和子线程的区别
+https://blog.csdn.net/wangkehuai/article/details/7089323
+
+中断处理的过程
+https://juejin.cn/post/7025201232151052301
+https://blog.csdn.net/TYUTyansheng/article/details/108148086
+https://blog.csdn.net/Ding_0110M/article/details/89071793
