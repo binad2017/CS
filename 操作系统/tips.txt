@@ -24,3 +24,14 @@ https://blog.csdn.net/yangkuanqaz85988/article/details/52403726
 操作系统中不安全状态为何并非一定转为死锁？
 https://blog.csdn.net/qq_34666857/article/details/104122776
 
+管程
+https://www.cnblogs.com/xidongyu/p/10891303.html
+
+一文搞懂六大进程通信机制原理(全网最详细)
+https://zhuanlan.zhihu.com/p/465574868
+
+Linux 内核空间与用户空间
+https://www.cnblogs.com/sparkdev/p/8410350.html
+
+为什么系统调用时要把一些寄存器保存到内核栈又从内核栈恢复？
+https://www.zhihu.com/question/381383261#
